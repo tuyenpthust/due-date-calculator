@@ -5,7 +5,7 @@
 Calculate due dates of bug reports with certain turnaround time.
 
 ``` js
-const dueDateCalculator = require('due-date-calculator')
+const dueDateCalculator = require('node-due-date-calculator')
 
 const submitDate = new Date('2016-11-22T14:40:00')
 const turnaround = 16
@@ -17,7 +17,7 @@ console.log(dueDateCalculator(submitDate, turnaround))
 ## install
 
 ```
-$ npm i due-date-calculator
+$ npm i node-due-date-calculator
 ```
 
 ## usage
