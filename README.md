@@ -28,7 +28,7 @@ $ npm i node-due-date-calculator
 - turnaround, `Number` - the turnaround time of the bug report in *working
   hours*, **required**
 
-Calculates the date, when the bug should be resolved.
+Calculates the date, when the bug should be resolved
 
 ## test
 
